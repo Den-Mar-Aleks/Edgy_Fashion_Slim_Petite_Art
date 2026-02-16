@@ -28,7 +28,7 @@ Base: Z-Image Turbo
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ZIT · v1.0  
 [Download Weights](https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v1.0/8GKMNSRT5WRBFEDN2N87TGM10.safetensors)
@@ -42,7 +42,7 @@ Base: Z-Image Turbo
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ZIT · v2.0  
 [Download Weights](https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v2.0/Edgy%20Fashion%20Slim%20Petite%20Art_epoch_10.safetensors)
@@ -55,6 +55,22 @@ Base: Z-Image Turbo
 <img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v2.0/b8fc1be2-8c73-4231-ac3c-33c3d5ec5891.jpeg" width="240">
 
 </td>
+
+
+<td width="33%" valign="top">
+
+### ZIT · v2.1  
+[Download Weights](https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v2.1/Edgy%20Fashion%20Slim%20Petite%20Art%20Gothic_epoch_9.safetensors)
+
+<br>
+
+<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v2.1/10ad532a-4bb7-484a-8808-6e0067ad55e7.jpeg" width="220"><br>
+<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v2.1/3ec5e8c7-75be-4177-aca1-bc82bef280fa.jpeg" width="220"><br>
+<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v2.1/4f1692de-6de1-4504-9c60-3bbbf2649cb3.jpeg" width="220"><br>
+<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v2.1/7c9a707f-a721-46ce-b51c-ba3c7735e9b0.jpeg" width="220">
+
+</td>
+
 </tr>
 </table>
 
