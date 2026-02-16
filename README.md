@@ -35,8 +35,8 @@ Base: Z-Image Turbo
 
 <br>
 
-<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v1.0/11096d58-2a9a-4e95-824b-ad236482ede3.jpeg" width="240"><br>
 <img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v1.0/GGKYQFQ4P7TQY931XMB99FJ7R0.jpeg" width="240"><br>
+<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v1.0/11096d58-2a9a-4e95-824b-ad236482ede3.jpeg" width="240"><br>
 <img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v1.0/c07338ca-580c-4a44-9d55-ab6f7641d3b3.jpeg" width="240"><br>
 <img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v1.0/f6d10d20-6619-4527-88d6-9f0196dec340.jpeg" width="240">
 
