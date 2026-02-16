@@ -69,6 +69,13 @@ Avoid overly tight face-only portraits if your goal is the outfit/look (this LoR
 
 ---
 
+
+## 🧾 License
+
+CreativeML OpenRAIL-M
+
+---
+
 ## ✏️ Author
 Created by **dmsnoa**
 
