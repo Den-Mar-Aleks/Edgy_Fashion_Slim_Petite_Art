@@ -34,7 +34,7 @@ Base: Z-Image Turbo
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### ZIT · v1.0  
 [Download Weights](https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v1.0/8GKMNSRT5WRBFEDN2N87TGM10.safetensors)
@@ -48,7 +48,7 @@ Base: Z-Image Turbo
 
 </td>
 
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### ZIT · v2.0  
 [Download Weights](https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v2.0/Edgy%20Fashion%20Slim%20Petite%20Art_epoch_10.safetensors)
@@ -63,7 +63,7 @@ Base: Z-Image Turbo
 </td>
 
 
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### ZIT · v2.1  
 [Download Weights](https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/ZIT/v2.1/Edgy%20Fashion%20Slim%20Petite%20Art%20Gothic_epoch_9.safetensors)
@@ -77,7 +77,7 @@ Base: Z-Image Turbo
 
 </td>
 
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### FLUX · v1.0  
 [Download](https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/Flux/Edgy_Fashion_Slim_Petite_Art.safetensors)
@@ -88,6 +88,20 @@ Base: Z-Image Turbo
 <img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/Flux/9218df0e-ce01-411d-be6f-8d09e7d2b1f9.jpeg" width="220"><br>
 <img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/Flux/96d8751f-89c2-4831-beed-882b2ec88543.jpeg" width="220"><br>
 <img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/Flux/ebd20285-ac8c-45fb-9866-53df105ede2f.jpeg" width="220">
+
+</td>
+
+<td width="20%" valign="top">
+
+### FLUX · v2.5  
+[Download](https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/Flux/v2.5/EFSPetite_Art_v2.5.safetensors)
+
+<br>
+
+<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/Flux/v2.5/-53-.png" width="220"><br>
+<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/Flux/v2.5/6-02-.png" width="220"><br>
+<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/Flux/v2.5/as-111970312-0.png" width="220"><br>
+<img src="https://huggingface.co/dmsnoa/Edgy_Fashion_Slim_Petite_Art/resolve/main/Flux/v2.5/str-2203655574-0.png" width="220">
 
 </td>
 
